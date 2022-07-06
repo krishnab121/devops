@@ -2,8 +2,3 @@ Hello this is git file
 new line added
 <<<<<<< HEAD
 second new line added
-=======
-confict error
-
-https://github.com/krishnab121/devops/blob/master/devops/file1.txt
->>>>>>> 814ecce5151cba6ecad70e614b954bdb2431a0ce
