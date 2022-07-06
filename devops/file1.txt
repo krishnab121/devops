@@ -1,4 +1,1 @@
-Hello this is git file
-new line added
-<<<<<<< HEAD
-second new line added
+looking into confilict
